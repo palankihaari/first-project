@@ -11,7 +11,7 @@
   <name>project.com</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
-  <hi >
+  
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.6</maven.compiler.source>
